@@ -1,3 +1,5 @@
+"""Comment"""
+
 from tkinter import *
 import urllib.request
 import re
